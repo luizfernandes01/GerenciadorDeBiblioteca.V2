@@ -1,0 +1,17 @@
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\bin\Debug\net8.0\GerenciadorDeBiblioteca.Infrastructure.deps.json
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\bin\Debug\net8.0\GerenciadorDeBiblioteca.Infrastructure.runtimeconfig.json
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\bin\Debug\net8.0\GerenciadorDeBiblioteca.Infrastructure.dll
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\bin\Debug\net8.0\GerenciadorDeBiblioteca.Infrastructure.pdb
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\bin\Debug\net8.0\GerenciadorDeBiblioteca.Core.dll
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\bin\Debug\net8.0\GerenciadorDeBiblioteca.Core.pdb
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\obj\Debug\net8.0\GerenciadorDeBiblioteca.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\obj\Debug\net8.0\GerenciadorDeBiblioteca.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\obj\Debug\net8.0\GerenciadorDeBiblioteca.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\obj\Debug\net8.0\GerenciadorDeBiblioteca.Infrastructure.AssemblyInfo.cs
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\obj\Debug\net8.0\GerenciadorDeBiblioteca.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\obj\Debug\net8.0\Gerencia.FC8F7ABA.Up2Date
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\obj\Debug\net8.0\GerenciadorDeBiblioteca.Infrastructure.dll
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\obj\Debug\net8.0\refint\GerenciadorDeBiblioteca.Infrastructure.dll
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\obj\Debug\net8.0\GerenciadorDeBiblioteca.Infrastructure.pdb
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\obj\Debug\net8.0\GerenciadorDeBiblioteca.Infrastructure.genruntimeconfig.cache
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Infrastructure\obj\Debug\net8.0\ref\GerenciadorDeBiblioteca.Infrastructure.dll

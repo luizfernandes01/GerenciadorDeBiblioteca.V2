@@ -1,0 +1,11 @@
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Core\bin\Debug\net8.0\GerenciadorDeBiblioteca.Core.deps.json
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Core\bin\Debug\net8.0\GerenciadorDeBiblioteca.Core.dll
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Core\bin\Debug\net8.0\GerenciadorDeBiblioteca.Core.pdb
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Core\obj\Debug\net8.0\GerenciadorDeBiblioteca.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Core\obj\Debug\net8.0\GerenciadorDeBiblioteca.Core.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Core\obj\Debug\net8.0\GerenciadorDeBiblioteca.Core.AssemblyInfo.cs
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Core\obj\Debug\net8.0\GerenciadorDeBiblioteca.Core.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Core\obj\Debug\net8.0\GerenciadorDeBiblioteca.Core.dll
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Core\obj\Debug\net8.0\refint\GerenciadorDeBiblioteca.Core.dll
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Core\obj\Debug\net8.0\GerenciadorDeBiblioteca.Core.pdb
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Core\obj\Debug\net8.0\ref\GerenciadorDeBiblioteca.Core.dll

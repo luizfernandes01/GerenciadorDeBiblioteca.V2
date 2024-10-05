@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luiz Henrique\\source\\repos\\GerenciadorDeBiblioteca.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE00A96-89EA-4811-90F7-4C0145A627CF}|GerenciadorDeBiblioteca.API.csproj|c:\\users\\luiz henrique\\source\\repos\\gerenciadordebiblioteca.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DAE00A96-89EA-4811-90F7-4C0145A627CF}|GerenciadorDeBiblioteca.API.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70313126-E0E2-4FA4-A95C-E3460381B611}|..\\GerenciadorDeBiblioteca.Application\\GerenciadorDeBiblioteca.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\gerenciadordebiblioteca.application\\queries\\emprestimoqueries\\getallemprestimo\\getallemprestimohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70313126-E0E2-4FA4-A95C-E3460381B611}|..\\GerenciadorDeBiblioteca.Application\\GerenciadorDeBiblioteca.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\gerenciadordebiblioteca.application\\queries\\livroqueries\\getalllivros\\getalllivrohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70313126-E0E2-4FA4-A95C-E3460381B611}|..\\GerenciadorDeBiblioteca.Application\\GerenciadorDeBiblioteca.Application.csproj|c:\\users\\luiz henrique\\source\\repos\\gerenciadordebiblioteca.application\\queries\\usuarioqueries\\getallusuario\\getallusuariohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE00A96-89EA-4811-90F7-4C0145A627CF}|GerenciadorDeBiblioteca.API.csproj|c:\\users\\luiz henrique\\source\\repos\\gerenciadordebiblioteca.api\\controllers\\emprestimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE00A96-89EA-4811-90F7-4C0145A627CF}|GerenciadorDeBiblioteca.API.csproj|solutionrelative:controllers\\emprestimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 100,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\GerenciadorDeBiblioteca.API\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\GerenciadorDeBiblioteca.API\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-05T19:29:18.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllLivroHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\GerenciadorDeBiblioteca.Application\\Queries\\LivroQueries\\GetAllLivros\\GetAllLivroHandler.cs",
+              "RelativeDocumentMoniker": "..\\GerenciadorDeBiblioteca.Application\\Queries\\LivroQueries\\GetAllLivros\\GetAllLivroHandler.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\GerenciadorDeBiblioteca.Application\\Queries\\LivroQueries\\GetAllLivros\\GetAllLivroHandler.cs",
+              "RelativeToolTip": "..\\GerenciadorDeBiblioteca.Application\\Queries\\LivroQueries\\GetAllLivros\\GetAllLivroHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:22:54.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmprestimosController.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\GerenciadorDeBiblioteca.API\\Controllers\\EmprestimosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmprestimosController.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\GerenciadorDeBiblioteca.API\\Controllers\\EmprestimosController.cs",
+              "RelativeToolTip": "Controllers\\EmprestimosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:24:02.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllEmprestimoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\GerenciadorDeBiblioteca.Application\\Queries\\EmprestimoQueries\\GetAllEmprestimo\\GetAllEmprestimoHandler.cs",
+              "RelativeDocumentMoniker": "..\\GerenciadorDeBiblioteca.Application\\Queries\\EmprestimoQueries\\GetAllEmprestimo\\GetAllEmprestimoHandler.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\GerenciadorDeBiblioteca.Application\\Queries\\EmprestimoQueries\\GetAllEmprestimo\\GetAllEmprestimoHandler.cs",
+              "RelativeToolTip": "..\\GerenciadorDeBiblioteca.Application\\Queries\\EmprestimoQueries\\GetAllEmprestimo\\GetAllEmprestimoHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:22:25.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllUsuarioHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz Henrique\\source\\repos\\GerenciadorDeBiblioteca.Application\\Queries\\UsuarioQueries\\GetAllUsuario\\GetAllUsuarioHandler.cs",
+              "RelativeDocumentMoniker": "..\\GerenciadorDeBiblioteca.Application\\Queries\\UsuarioQueries\\GetAllUsuario\\GetAllUsuarioHandler.cs",
+              "ToolTip": "C:\\Users\\Luiz Henrique\\source\\repos\\GerenciadorDeBiblioteca.Application\\Queries\\UsuarioQueries\\GetAllUsuario\\GetAllUsuarioHandler.cs",
+              "RelativeToolTip": "..\\GerenciadorDeBiblioteca.Application\\Queries\\UsuarioQueries\\GetAllUsuario\\GetAllUsuarioHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:17:43.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\bin\Debug\net8.0\GerenciadorDeBiblioteca.Application.deps.json
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\bin\Debug\net8.0\GerenciadorDeBiblioteca.Application.dll
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\bin\Debug\net8.0\GerenciadorDeBiblioteca.Application.pdb
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\bin\Debug\net8.0\GerenciadorDeBiblioteca.Core.dll
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\bin\Debug\net8.0\GerenciadorDeBiblioteca.Infrastructure.dll
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\bin\Debug\net8.0\GerenciadorDeBiblioteca.Core.pdb
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\bin\Debug\net8.0\GerenciadorDeBiblioteca.Infrastructure.pdb
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\obj\Debug\net8.0\GerenciadorDeBiblioteca.Application.csproj.AssemblyReference.cache
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\obj\Debug\net8.0\GerenciadorDeBiblioteca.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\obj\Debug\net8.0\GerenciadorDeBiblioteca.Application.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\obj\Debug\net8.0\GerenciadorDeBiblioteca.Application.AssemblyInfo.cs
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\obj\Debug\net8.0\GerenciadorDeBiblioteca.Application.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\obj\Debug\net8.0\Gerencia.07E82D05.Up2Date
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\obj\Debug\net8.0\GerenciadorDeBiblioteca.Application.dll
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\obj\Debug\net8.0\refint\GerenciadorDeBiblioteca.Application.dll
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\obj\Debug\net8.0\GerenciadorDeBiblioteca.Application.pdb
+C:\Users\Luiz Henrique\source\repos\GerenciadorDeBiblioteca.Application\obj\Debug\net8.0\ref\GerenciadorDeBiblioteca.Application.dll
